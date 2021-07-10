@@ -8,6 +8,6 @@ main:
   url: faq
   weigh: 2
 - identifier: contact
-  name: contact
+  name: Contact
   url: contact/
   weigh: 2
